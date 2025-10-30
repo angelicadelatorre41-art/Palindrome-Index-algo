@@ -1,1 +1,1 @@
-# Palindrome-Index-algo
+# Palindrome-Index-algo The code checks each pair of characters from both ends of the string to find a mismatch. If removing one mismatched character makes the string a palindrome, it returns that index; otherwise, it returns -1.
